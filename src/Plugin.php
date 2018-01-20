@@ -48,6 +48,7 @@ class Plugin extends AbstractPlugin {
 		return array(
 			'disable-emoji',
 			'disable-wp-oembed',
+			'disable-rest-user-endpoint',
 			'clean-up-head',
 		);
 	}
