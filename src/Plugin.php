@@ -47,6 +47,7 @@ class Plugin extends AbstractPlugin {
 	public static function get_features() {
 		return array(
 			'disable-emoji',
+			'disable-wp-oembed',
 			'clean-up-head',
 		);
 	}
