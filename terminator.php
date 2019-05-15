@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:    Terminator
- * Plugin URI:     https://superbia.com.au/plugins/terminator/
+ * Plugin URI:     https://github.com/superbia/Terminator
  * Description:    Disable core WordPress functionality via theme support.
  * Author:         Dylan Nichols, Superbia
  * Author URI:     https://superbia.com.au
